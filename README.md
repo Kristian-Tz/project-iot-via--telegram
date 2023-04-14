@@ -38,7 +38,7 @@ sta_if.connect(wifi_config['ssid'], wifi_config['password'])
 ```
 ## ubahlah apikey dan token bot telegram kalian on file utelegram.py
 cara mendapatkan apikey dan token bot telegram:  [Click ini](https://langsungviral.com/2019/12/04/cara-mendapatkan-api-key-atau-token-bot-telegram-dan-chat-id-telegram/)
-p
+
 ```javascript
  def __init__(self, token):
   self.url = 'https://api.telegram.org/bot' + token
@@ -47,7 +47,7 @@ p
 
 ## Authors
 
-- [@Kristian-Tz](https://www.github.com/Kristian_Tz)
+- [@Kristian-Tz](https://www.github.com/Kristian-Tz)
 
 
 ## License
