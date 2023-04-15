@@ -1,6 +1,6 @@
 # Kode program IoT via bot telegram
 
-
+## project ini menggunakan module relay dan nodemcu wifi
 ## Install from Termux/terminal
 
 Install module git clone
